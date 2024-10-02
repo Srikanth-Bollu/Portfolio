@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* For modern browsers */
+
+* {
+  scroll-behavior: smooth;
+}
+::-webkit-scrollbar {
+  width: 8px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #020617; /* Color of the scrollbar thumb */
+  border-radius: 9999px; /* Fully rounded edges */
+  border: 2px solid transparent; /* Padding around thumb */
+}
