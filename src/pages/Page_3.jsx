@@ -14,7 +14,7 @@ function Page_3() {
           imge={
             "https://thumbs.dreamstime.com/z/job-portal-lettering-logo-design-template-concept-professional-employee-recruitment-agency-logo-vector-job-portal-lettering-220648781.jpg"
           }
-          src={"https://github.com/Srikanth-Bollu/Job-Portal-Application-Backend1"}
+          src={"https://github.com/Srikanth-Bollu/Job-Portal-Application-Final1"}
         />
         <Card
           name={"paytm_clone"}
